@@ -24,3 +24,5 @@ Note that you will need Pure Data to run and edit the Resware and the Arduino so
 Feel free to update, modify and share the Resware and Arduino source code with as many people as possible, 
 however make sure you follow the terms and conditions sated in the license 
 (Attribution-NonCommercial-ShareAlike 3.0 Unported). 
+
+More info: http://www.recyclism.com/theresmini.php

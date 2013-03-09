@@ -26,3 +26,4 @@ however make sure you follow the terms and conditions sated in the license
 (Attribution-NonCommercial-ShareAlike 3.0 Unported). 
 
 More info: http://www.recyclism.com/theresmini.php
+Note: You will need to download the audio samples here: http://www.recyclism.com/resmini/resware.zip

@@ -25,5 +25,6 @@ Feel free to update, modify and share the Resware and Arduino source code with a
 however make sure you follow the terms and conditions sated in the license 
 (Attribution-NonCommercial-ShareAlike 3.0 Unported). 
 
-More info: http://www.recyclism.com/theresmini.php
-Note: You will need to download the audio samples here: http://www.recyclism.com/resmini/resware.zip
+More info: http://www.recyclism.com/theresmini.php <br>
+Note: You will need to download the audio samples here: http://www.recyclism.com/resmini/resware.zip <br>
+To connect the NES controller to your Arduino check out this instructions: http://www.recyclism.com/resmini/resware_user_manual.pdf
